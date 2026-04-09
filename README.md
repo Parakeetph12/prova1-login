@@ -1,5 +1,13 @@
 # Prova 1 — Sistema de Autenticação Básico
 
+## Autor
+
+| Campo | Info |
+|-------|------|
+| **Nome** | Guilherme Espicoz Almeida |
+| **Instituição** | Uniube |
+| **Período** | Matutino |
+
 Aplicação web com sistema de login desenvolvida com Node.js, Express e JavaScript puro.
 
 ## Sobre o Projeto
